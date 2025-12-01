@@ -1,4 +1,4 @@
-const backend = "https://pravin-backend.onrender.com";
+const backend = "https://pravin-backend-api.onrender.com";
 
 // ----------------------
 // DARK/LIGHT MODE
